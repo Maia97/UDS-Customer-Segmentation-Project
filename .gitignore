@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignoring files
+.DS_Store
+DIAS Attributes - Values 2017.xlsx
+DIAS Information Levels - Attributes 2017.xlsx
+terms_and_conditions/
