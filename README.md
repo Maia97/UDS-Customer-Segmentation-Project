@@ -27,7 +27,7 @@ Due to the terms of use, the data is not publicly available and therefore not in
 
 ## Requirements
 
-Python 3.6 or above is required to run the code in this repository. All required packages can be installed by running:
+Python 3.7 or above is required to run the code in this repository. All required packages can be installed by running:
 
 ```bash
 pip install -r requirements.txt
